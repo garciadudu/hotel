@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ConstructoIT.Hotel.Accor.Domain.Core/1.0.0": {
+        "dependencies": {
+          "ConstructoIT.Hotel.Accor.AplicaoDTO": "1.0.0",
+          "ConstructoIT.Hotel.Accor.Domain.Entities": "1.0.0"
+        },
+        "runtime": {
+          "ConstructoIT.Hotel.Accor.Domain.Core.dll": {}
+        }
+      },
+      "ConstructoIT.Hotel.Accor.AplicaoDTO/1.0.0": {
+        "runtime": {
+          "ConstructoIT.Hotel.Accor.AplicaoDTO.dll": {}
+        }
+      },
+      "ConstructoIT.Hotel.Accor.Domain.Entities/1.0.0": {
+        "runtime": {
+          "ConstructoIT.Hotel.Accor.Domain.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConstructoIT.Hotel.Accor.Domain.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ConstructoIT.Hotel.Accor.AplicaoDTO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ConstructoIT.Hotel.Accor.Domain.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

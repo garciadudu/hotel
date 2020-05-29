@@ -1,0 +1,14 @@
+C:\sistemas\git\hotel\ConstructoIT.Hotel.Accor\ConstructoIT.Hotel.Accor.Domain.Core\bin\Debug\netcoreapp3.1\ConstructoIT.Hotel.Accor.Domain.Core.deps.json
+C:\sistemas\git\hotel\ConstructoIT.Hotel.Accor\ConstructoIT.Hotel.Accor.Domain.Core\bin\Debug\netcoreapp3.1\ConstructoIT.Hotel.Accor.Domain.Core.dll
+C:\sistemas\git\hotel\ConstructoIT.Hotel.Accor\ConstructoIT.Hotel.Accor.Domain.Core\bin\Debug\netcoreapp3.1\ConstructoIT.Hotel.Accor.Domain.Core.pdb
+C:\sistemas\git\hotel\ConstructoIT.Hotel.Accor\ConstructoIT.Hotel.Accor.Domain.Core\bin\Debug\netcoreapp3.1\ConstructoIT.Hotel.Accor.AplicaoDTO.dll
+C:\sistemas\git\hotel\ConstructoIT.Hotel.Accor\ConstructoIT.Hotel.Accor.Domain.Core\bin\Debug\netcoreapp3.1\ConstructoIT.Hotel.Accor.Domain.Entities.dll
+C:\sistemas\git\hotel\ConstructoIT.Hotel.Accor\ConstructoIT.Hotel.Accor.Domain.Core\bin\Debug\netcoreapp3.1\ConstructoIT.Hotel.Accor.AplicaoDTO.pdb
+C:\sistemas\git\hotel\ConstructoIT.Hotel.Accor\ConstructoIT.Hotel.Accor.Domain.Core\bin\Debug\netcoreapp3.1\ConstructoIT.Hotel.Accor.Domain.Entities.pdb
+C:\sistemas\git\hotel\ConstructoIT.Hotel.Accor\ConstructoIT.Hotel.Accor.Domain.Core\obj\Debug\netcoreapp3.1\ConstructoIT.Hotel.Accor.Domain.Core.csprojAssemblyReference.cache
+C:\sistemas\git\hotel\ConstructoIT.Hotel.Accor\ConstructoIT.Hotel.Accor.Domain.Core\obj\Debug\netcoreapp3.1\ConstructoIT.Hotel.Accor.Domain.Core.csproj.CoreCompileInputs.cache
+C:\sistemas\git\hotel\ConstructoIT.Hotel.Accor\ConstructoIT.Hotel.Accor.Domain.Core\obj\Debug\netcoreapp3.1\ConstructoIT.Hotel.Accor.Domain.Core.AssemblyInfoInputs.cache
+C:\sistemas\git\hotel\ConstructoIT.Hotel.Accor\ConstructoIT.Hotel.Accor.Domain.Core\obj\Debug\netcoreapp3.1\ConstructoIT.Hotel.Accor.Domain.Core.AssemblyInfo.cs
+C:\sistemas\git\hotel\ConstructoIT.Hotel.Accor\ConstructoIT.Hotel.Accor.Domain.Core\obj\Debug\netcoreapp3.1\ConstructoIT.Hotel.Accor.Domain.Core.csproj.CopyComplete
+C:\sistemas\git\hotel\ConstructoIT.Hotel.Accor\ConstructoIT.Hotel.Accor.Domain.Core\obj\Debug\netcoreapp3.1\ConstructoIT.Hotel.Accor.Domain.Core.dll
+C:\sistemas\git\hotel\ConstructoIT.Hotel.Accor\ConstructoIT.Hotel.Accor.Domain.Core\obj\Debug\netcoreapp3.1\ConstructoIT.Hotel.Accor.Domain.Core.pdb

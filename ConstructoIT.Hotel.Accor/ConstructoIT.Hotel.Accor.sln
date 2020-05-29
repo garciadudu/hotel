@@ -1,0 +1,103 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConstructoIT.Hotel.Accor.Aplicacao", "ConstructoIT.Hotel.Accor.Aplicacao\ConstructoIT.Hotel.Accor.Aplicacao.csproj", "{C921975D-8473-4CEB-A380-AD76021BD6AF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConstructoIT.Hotel.Accor.AplicaoDTO", "ConstructoIT.Hotel.Accor.Dados\ConstructoIT.Hotel.Accor.AplicaoDTO.csproj", "{C7C415EE-C493-469E-AFC2-0631AB81C22F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConstructoIT.Hotel.Accor.Domain.Entities", "ConstructoIT.Hotel.Accor.Dominio\ConstructoIT.Hotel.Accor.Domain.Entities.csproj", "{54731256-590A-46EA-BC0C-431C611356DE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConstructoIT.Hotel.Accor.Servicos", "ConstructoIT.Hotel.Accor.Servicos\ConstructoIT.Hotel.Accor.Servicos.csproj", "{20716992-A07A-4E82-A522-62350A05A7BA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01-Dominio", "01-Dominio", "{D6CFAF9C-F2CE-4640-8588-C98D934C4EE7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConstructoIT.Hotel.Accor.Domain.Core", "ConstructoIT.Hotel.Accor.Domain.Core\ConstructoIT.Hotel.Accor.Domain.Core.csproj", "{8AB94ED6-DFF8-4442-923B-38726454BD87}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02-Infraestrutura", "02-Infraestrutura", "{89BC72BC-8E71-44C2-B800-3419D47A806E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03-Aplicacao", "03-Aplicacao", "{84AE0689-749F-4034-9AFB-19631F27F68D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "05-UI", "05-UI", "{96485D1B-61E7-45D7-B75A-99944B7CD0F4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "06-Testes", "06-Testes", "{5EFA98F4-35F2-4FAB-B418-4B214A6A3D07}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04-Api", "04-Api", "{710D5952-3B84-4D53-B9EC-CD98773C177B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConstructoIT.Hotel.Accor.Infraestrutura.CrossCutting", "ConstructoIT.Hotel.Accor.Infraestrutura.CrossCutting\ConstructoIT.Hotel.Accor.Infraestrutura.CrossCutting.csproj", "{460E5D45-367D-4BB2-B0CD-7AEC42354B90}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConstructoIT.Hotel.Accor.Testes", "ConstructoIT.Hotel.Accor.Testes\ConstructoIT.Hotel.Accor.Testes.csproj", "{8ACA6FE0-7B0A-47DE-B53C-C6E7F155ACC3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConstructoIT.Hotel.Accor.Infraestrutura.Repository", "ConstructoIT.Hotel.Accor.Infraestrutura.Repository\ConstructoIT.Hotel.Accor.Infraestrutura.Repository.csproj", "{530D3C8B-4944-448A-B701-FCC39D82DDA6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConstructoIT.Hotel.Accor.Api", "ConstructoIT.Hotel.Accor.Api\ConstructoIT.Hotel.Accor.Api.csproj", "{9E6AA794-39C2-47BA-8B89-542DDBD3AB3B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConstructoIT.Hotel.Accor.Site", "ConstructoIT.Hotel.Accor.Site\ConstructoIT.Hotel.Accor.Site.csproj", "{6F4F0A74-8629-4FB7-9D40-518D1749ED0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C921975D-8473-4CEB-A380-AD76021BD6AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C921975D-8473-4CEB-A380-AD76021BD6AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C921975D-8473-4CEB-A380-AD76021BD6AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C921975D-8473-4CEB-A380-AD76021BD6AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7C415EE-C493-469E-AFC2-0631AB81C22F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7C415EE-C493-469E-AFC2-0631AB81C22F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7C415EE-C493-469E-AFC2-0631AB81C22F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7C415EE-C493-469E-AFC2-0631AB81C22F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54731256-590A-46EA-BC0C-431C611356DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54731256-590A-46EA-BC0C-431C611356DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54731256-590A-46EA-BC0C-431C611356DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54731256-590A-46EA-BC0C-431C611356DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20716992-A07A-4E82-A522-62350A05A7BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20716992-A07A-4E82-A522-62350A05A7BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20716992-A07A-4E82-A522-62350A05A7BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20716992-A07A-4E82-A522-62350A05A7BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AB94ED6-DFF8-4442-923B-38726454BD87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AB94ED6-DFF8-4442-923B-38726454BD87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AB94ED6-DFF8-4442-923B-38726454BD87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AB94ED6-DFF8-4442-923B-38726454BD87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{460E5D45-367D-4BB2-B0CD-7AEC42354B90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{460E5D45-367D-4BB2-B0CD-7AEC42354B90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{460E5D45-367D-4BB2-B0CD-7AEC42354B90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{460E5D45-367D-4BB2-B0CD-7AEC42354B90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8ACA6FE0-7B0A-47DE-B53C-C6E7F155ACC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8ACA6FE0-7B0A-47DE-B53C-C6E7F155ACC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8ACA6FE0-7B0A-47DE-B53C-C6E7F155ACC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8ACA6FE0-7B0A-47DE-B53C-C6E7F155ACC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{530D3C8B-4944-448A-B701-FCC39D82DDA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{530D3C8B-4944-448A-B701-FCC39D82DDA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{530D3C8B-4944-448A-B701-FCC39D82DDA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{530D3C8B-4944-448A-B701-FCC39D82DDA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E6AA794-39C2-47BA-8B89-542DDBD3AB3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E6AA794-39C2-47BA-8B89-542DDBD3AB3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E6AA794-39C2-47BA-8B89-542DDBD3AB3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E6AA794-39C2-47BA-8B89-542DDBD3AB3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F4F0A74-8629-4FB7-9D40-518D1749ED0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F4F0A74-8629-4FB7-9D40-518D1749ED0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F4F0A74-8629-4FB7-9D40-518D1749ED0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F4F0A74-8629-4FB7-9D40-518D1749ED0E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{C921975D-8473-4CEB-A380-AD76021BD6AF} = {84AE0689-749F-4034-9AFB-19631F27F68D}
+		{C7C415EE-C493-469E-AFC2-0631AB81C22F} = {84AE0689-749F-4034-9AFB-19631F27F68D}
+		{54731256-590A-46EA-BC0C-431C611356DE} = {D6CFAF9C-F2CE-4640-8588-C98D934C4EE7}
+		{20716992-A07A-4E82-A522-62350A05A7BA} = {D6CFAF9C-F2CE-4640-8588-C98D934C4EE7}
+		{8AB94ED6-DFF8-4442-923B-38726454BD87} = {D6CFAF9C-F2CE-4640-8588-C98D934C4EE7}
+		{460E5D45-367D-4BB2-B0CD-7AEC42354B90} = {89BC72BC-8E71-44C2-B800-3419D47A806E}
+		{8ACA6FE0-7B0A-47DE-B53C-C6E7F155ACC3} = {5EFA98F4-35F2-4FAB-B418-4B214A6A3D07}
+		{530D3C8B-4944-448A-B701-FCC39D82DDA6} = {89BC72BC-8E71-44C2-B800-3419D47A806E}
+		{9E6AA794-39C2-47BA-8B89-542DDBD3AB3B} = {710D5952-3B84-4D53-B9EC-CD98773C177B}
+		{6F4F0A74-8629-4FB7-9D40-518D1749ED0E} = {96485D1B-61E7-45D7-B75A-99944B7CD0F4}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {55ADB916-51DF-4A49-8BFE-EC0D8A7E7385}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+C:\sistemas\git\hotel\ConstructoIT.Hotel.Accor\ConstructoIT.Hotel.Accor.Infraestrutura.CrossCutting\bin\Debug\netcoreapp3.1\ConstructoIT.Hotel.Accor.Infraestrutura.CrossCutting.deps.json
+C:\sistemas\git\hotel\ConstructoIT.Hotel.Accor\ConstructoIT.Hotel.Accor.Infraestrutura.CrossCutting\bin\Debug\netcoreapp3.1\ConstructoIT.Hotel.Accor.Infraestrutura.CrossCutting.dll
+C:\sistemas\git\hotel\ConstructoIT.Hotel.Accor\ConstructoIT.Hotel.Accor.Infraestrutura.CrossCutting\bin\Debug\netcoreapp3.1\ConstructoIT.Hotel.Accor.Infraestrutura.CrossCutting.pdb
+C:\sistemas\git\hotel\ConstructoIT.Hotel.Accor\ConstructoIT.Hotel.Accor.Infraestrutura.CrossCutting\bin\Debug\netcoreapp3.1\ConstructoIT.Hotel.Accor.AplicaoDTO.dll
+C:\sistemas\git\hotel\ConstructoIT.Hotel.Accor\ConstructoIT.Hotel.Accor.Infraestrutura.CrossCutting\bin\Debug\netcoreapp3.1\ConstructoIT.Hotel.Accor.Domain.Entities.dll
+C:\sistemas\git\hotel\ConstructoIT.Hotel.Accor\ConstructoIT.Hotel.Accor.Infraestrutura.CrossCutting\bin\Debug\netcoreapp3.1\ConstructoIT.Hotel.Accor.AplicaoDTO.pdb
+C:\sistemas\git\hotel\ConstructoIT.Hotel.Accor\ConstructoIT.Hotel.Accor.Infraestrutura.CrossCutting\bin\Debug\netcoreapp3.1\ConstructoIT.Hotel.Accor.Domain.Entities.pdb
+C:\sistemas\git\hotel\ConstructoIT.Hotel.Accor\ConstructoIT.Hotel.Accor.Infraestrutura.CrossCutting\obj\Debug\netcoreapp3.1\ConstructoIT.Hotel.Accor.Infraestrutura.CrossCutting.csprojAssemblyReference.cache
+C:\sistemas\git\hotel\ConstructoIT.Hotel.Accor\ConstructoIT.Hotel.Accor.Infraestrutura.CrossCutting\obj\Debug\netcoreapp3.1\ConstructoIT.Hotel.Accor.Infraestrutura.CrossCutting.csproj.CoreCompileInputs.cache
+C:\sistemas\git\hotel\ConstructoIT.Hotel.Accor\ConstructoIT.Hotel.Accor.Infraestrutura.CrossCutting\obj\Debug\netcoreapp3.1\ConstructoIT.Hotel.Accor.Infraestrutura.CrossCutting.AssemblyInfoInputs.cache
+C:\sistemas\git\hotel\ConstructoIT.Hotel.Accor\ConstructoIT.Hotel.Accor.Infraestrutura.CrossCutting\obj\Debug\netcoreapp3.1\ConstructoIT.Hotel.Accor.Infraestrutura.CrossCutting.AssemblyInfo.cs
+C:\sistemas\git\hotel\ConstructoIT.Hotel.Accor\ConstructoIT.Hotel.Accor.Infraestrutura.CrossCutting\obj\Debug\netcoreapp3.1\ConstructoIT.Hotel.Accor.Infraestrutura.CrossCutting.csproj.CopyComplete
+C:\sistemas\git\hotel\ConstructoIT.Hotel.Accor\ConstructoIT.Hotel.Accor.Infraestrutura.CrossCutting\obj\Debug\netcoreapp3.1\ConstructoIT.Hotel.Accor.Infraestrutura.CrossCutting.dll
+C:\sistemas\git\hotel\ConstructoIT.Hotel.Accor\ConstructoIT.Hotel.Accor.Infraestrutura.CrossCutting\obj\Debug\netcoreapp3.1\ConstructoIT.Hotel.Accor.Infraestrutura.CrossCutting.pdb

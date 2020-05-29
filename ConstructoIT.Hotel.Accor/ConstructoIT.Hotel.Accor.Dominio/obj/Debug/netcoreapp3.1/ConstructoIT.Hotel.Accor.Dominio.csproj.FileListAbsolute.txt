@@ -1,0 +1,9 @@
+C:\sistemas\git\hotel\ConstructoIT.Hotel.Accor\ConstructoIT.Hotel.Accor.Dominio\bin\Debug\netcoreapp3.1\ConstructoIT.Hotel.Accor.Dominio.deps.json
+C:\sistemas\git\hotel\ConstructoIT.Hotel.Accor\ConstructoIT.Hotel.Accor.Dominio\bin\Debug\netcoreapp3.1\ConstructoIT.Hotel.Accor.Dominio.dll
+C:\sistemas\git\hotel\ConstructoIT.Hotel.Accor\ConstructoIT.Hotel.Accor.Dominio\bin\Debug\netcoreapp3.1\ConstructoIT.Hotel.Accor.Dominio.pdb
+C:\sistemas\git\hotel\ConstructoIT.Hotel.Accor\ConstructoIT.Hotel.Accor.Dominio\obj\Debug\netcoreapp3.1\ConstructoIT.Hotel.Accor.Dominio.csprojAssemblyReference.cache
+C:\sistemas\git\hotel\ConstructoIT.Hotel.Accor\ConstructoIT.Hotel.Accor.Dominio\obj\Debug\netcoreapp3.1\ConstructoIT.Hotel.Accor.Dominio.AssemblyInfoInputs.cache
+C:\sistemas\git\hotel\ConstructoIT.Hotel.Accor\ConstructoIT.Hotel.Accor.Dominio\obj\Debug\netcoreapp3.1\ConstructoIT.Hotel.Accor.Dominio.AssemblyInfo.cs
+C:\sistemas\git\hotel\ConstructoIT.Hotel.Accor\ConstructoIT.Hotel.Accor.Dominio\obj\Debug\netcoreapp3.1\ConstructoIT.Hotel.Accor.Dominio.dll
+C:\sistemas\git\hotel\ConstructoIT.Hotel.Accor\ConstructoIT.Hotel.Accor.Dominio\obj\Debug\netcoreapp3.1\ConstructoIT.Hotel.Accor.Dominio.pdb
+C:\sistemas\git\hotel\ConstructoIT.Hotel.Accor\ConstructoIT.Hotel.Accor.Dominio\obj\Debug\netcoreapp3.1\ConstructoIT.Hotel.Accor.Dominio.csproj.CoreCompileInputs.cache

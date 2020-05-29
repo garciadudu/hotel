@@ -1,0 +1,9 @@
+C:\sistemas\git\hotel\ConstructoIT.Hotel.Accor\ConstructoIT.Hotel.Accor.Dados\bin\Debug\netcoreapp3.1\ConstructoIT.Hotel.Accor.AplicaoDTO.deps.json
+C:\sistemas\git\hotel\ConstructoIT.Hotel.Accor\ConstructoIT.Hotel.Accor.Dados\bin\Debug\netcoreapp3.1\ConstructoIT.Hotel.Accor.AplicaoDTO.dll
+C:\sistemas\git\hotel\ConstructoIT.Hotel.Accor\ConstructoIT.Hotel.Accor.Dados\bin\Debug\netcoreapp3.1\ConstructoIT.Hotel.Accor.AplicaoDTO.pdb
+C:\sistemas\git\hotel\ConstructoIT.Hotel.Accor\ConstructoIT.Hotel.Accor.Dados\obj\Debug\netcoreapp3.1\ConstructoIT.Hotel.Accor.AplicaoDTO.csproj.CoreCompileInputs.cache
+C:\sistemas\git\hotel\ConstructoIT.Hotel.Accor\ConstructoIT.Hotel.Accor.Dados\obj\Debug\netcoreapp3.1\ConstructoIT.Hotel.Accor.AplicaoDTO.AssemblyInfoInputs.cache
+C:\sistemas\git\hotel\ConstructoIT.Hotel.Accor\ConstructoIT.Hotel.Accor.Dados\obj\Debug\netcoreapp3.1\ConstructoIT.Hotel.Accor.AplicaoDTO.AssemblyInfo.cs
+C:\sistemas\git\hotel\ConstructoIT.Hotel.Accor\ConstructoIT.Hotel.Accor.Dados\obj\Debug\netcoreapp3.1\ConstructoIT.Hotel.Accor.AplicaoDTO.dll
+C:\sistemas\git\hotel\ConstructoIT.Hotel.Accor\ConstructoIT.Hotel.Accor.Dados\obj\Debug\netcoreapp3.1\ConstructoIT.Hotel.Accor.AplicaoDTO.pdb
+C:\sistemas\git\hotel\ConstructoIT.Hotel.Accor\ConstructoIT.Hotel.Accor.Dados\obj\Debug\netcoreapp3.1\ConstructoIT.Hotel.Accor.AplicaoDTO.csprojAssemblyReference.cache

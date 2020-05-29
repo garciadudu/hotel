@@ -1,0 +1,136 @@
+﻿@model ConstructoIT.Hotel.Accor.Site.Models.FamiliaViewModel
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Familia</h1>
+
+<button class="btn btn-success" id="botaoCadastrar" name="botaoCadastrar" data-toggle="modal" data-target="#cadastrar">Cadastrar</button>
+
+<table class="tabela">
+    <tr>
+        <td></td>
+    </tr>
+</table>
+
+
+<div class="modal fade" id="cadastrar" tabindex="-1" role="dialog" aria-labelledby="exemploModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exemploModalLabel">Cadastrar</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <form method="post" action="/Cadastrar">
+                    <input type="hidden" id="Id" value="0" />
+                    <div class="form-group">
+                        <label for="nome" class="col-form-label">Nome</label>
+                        <input type="text" class="form-control cadastrarNome" id="nome">
+                    </div>
+                    <div class="form-group">
+                        <label for="Id_Condominio" class="col-form-label">Condominio</label>
+                        <select id="Id_Condominio" asp-for="Id_Condominio" asp-items="@(new SelectList(ViewBag.Condominios, "Value", "Text"))">
+                            <option value="" disabled selected>Selecione um condominio</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <label for="apto" class="col-form-label">Apto</label>
+                        <input type="text" class="form-control cadastrarApto" id="apto">
+                    </div>
+                </form>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-primary btn-Cadastrar">Salvar Dados</button>
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div class="modal fade" id="editar" tabindex="-1" role="dialog" aria-labelledby="exemploModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exemploModalLabel">Editar</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <form method="put" action="/Atualizar">
+                    <input type="hidden" id="Id" />
+                    <div class="form-group">
+                        <label for="nome" class="col-form-label">Nome</label>
+                        <input type="text" class="form-control editarNome" id="nome">
+                    </div>
+                    <input type="hidden" id="Id_Condominio" />
+                    <div class="form-group">
+                        <label for="condomino" class="col-form-label">Nome</label>
+                        <input type="text" class="form-control editarCondominio" id="condomino">
+                    </div>
+                    <div class="form-group">
+                        <label for="apto" class="col-form-label">Apto</label>
+                        <input type="text" class="form-control editarApto" id="apto">
+                    </div>
+                </form>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-primary btn-Editar">Salvar Dados</button>
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div class="modal fade" id="excluir" tabindex="-1" role="dialog" aria-labelledby="exemploModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exemploModalLabel">Exclusão</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <form method="delete" action="/Remover">
+                    <input type="hidden" id="Id" />
+                    <div class="form-group">
+                        <label for="nome" class="col-form-label">Nome</label>
+                        <input type="text" class="form-control editarNome" id="nome">
+                    </div>
+                    <input type="hidden" id="Id_Condominio" />
+                    <div class="form-group">
+                        <label for="condomino" class="col-form-label">Nome</label>
+                        <input type="text" class="form-control editarCondominio" id="condomino">
+                    </div>
+                    <div class="form-group">
+                        <label for="apto" class="col-form-label">Apto</label>
+                        <input type="text" class="form-control editarApto" id="apto">
+                    </div>
+                </form>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-primary btn-Excluir">Confirma a exclusão?</button>
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+@section scripts{
+    <script src="~/js/View/Familia/Familia.js"></script>
+
+    <script type="text/javascript">
+        $(function () {
+            familiaScript.init();
+        })
+    </script>
+}
+

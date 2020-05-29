@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ConstructoIT.Hotel.Accor.Domain.Core\ConstructoIT.Hotel.Accor.Domain.Core.csproj" />
+    <ProjectReference Include="..\ConstructoIT.Hotel.Accor.Dominio\ConstructoIT.Hotel.Accor.Domain.Entities.csproj" />
+  </ItemGroup>
+
+</Project>

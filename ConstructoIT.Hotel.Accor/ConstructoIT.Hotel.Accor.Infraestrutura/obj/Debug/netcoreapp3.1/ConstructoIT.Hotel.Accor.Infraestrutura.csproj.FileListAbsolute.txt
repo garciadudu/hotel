@@ -1,0 +1,15 @@
+C:\sistemas\git\hotel\ConstructoIT.Hotel.Accor\ConstructoIT.Hotel.Accor.Infraestrutura\bin\Debug\netcoreapp3.1\ConstructoIT.Hotel.Accor.Infraestrutura.deps.json
+C:\sistemas\git\hotel\ConstructoIT.Hotel.Accor\ConstructoIT.Hotel.Accor.Infraestrutura\bin\Debug\netcoreapp3.1\ConstructoIT.Hotel.Accor.Infraestrutura.runtimeconfig.json
+C:\sistemas\git\hotel\ConstructoIT.Hotel.Accor\ConstructoIT.Hotel.Accor.Infraestrutura\bin\Debug\netcoreapp3.1\ConstructoIT.Hotel.Accor.Infraestrutura.runtimeconfig.dev.json
+C:\sistemas\git\hotel\ConstructoIT.Hotel.Accor\ConstructoIT.Hotel.Accor.Infraestrutura\bin\Debug\netcoreapp3.1\ConstructoIT.Hotel.Accor.Infraestrutura.dll
+C:\sistemas\git\hotel\ConstructoIT.Hotel.Accor\ConstructoIT.Hotel.Accor.Infraestrutura\bin\Debug\netcoreapp3.1\ConstructoIT.Hotel.Accor.Infraestrutura.pdb
+C:\sistemas\git\hotel\ConstructoIT.Hotel.Accor\ConstructoIT.Hotel.Accor.Infraestrutura\bin\Debug\netcoreapp3.1\ConstructoIT.Hotel.Accor.Domain.Entities.dll
+C:\sistemas\git\hotel\ConstructoIT.Hotel.Accor\ConstructoIT.Hotel.Accor.Infraestrutura\bin\Debug\netcoreapp3.1\ConstructoIT.Hotel.Accor.Domain.Entities.pdb
+C:\sistemas\git\hotel\ConstructoIT.Hotel.Accor\ConstructoIT.Hotel.Accor.Infraestrutura\obj\Debug\netcoreapp3.1\ConstructoIT.Hotel.Accor.Infraestrutura.csprojAssemblyReference.cache
+C:\sistemas\git\hotel\ConstructoIT.Hotel.Accor\ConstructoIT.Hotel.Accor.Infraestrutura\obj\Debug\netcoreapp3.1\ConstructoIT.Hotel.Accor.Infraestrutura.csproj.CoreCompileInputs.cache
+C:\sistemas\git\hotel\ConstructoIT.Hotel.Accor\ConstructoIT.Hotel.Accor.Infraestrutura\obj\Debug\netcoreapp3.1\ConstructoIT.Hotel.Accor.Infraestrutura.AssemblyInfoInputs.cache
+C:\sistemas\git\hotel\ConstructoIT.Hotel.Accor\ConstructoIT.Hotel.Accor.Infraestrutura\obj\Debug\netcoreapp3.1\ConstructoIT.Hotel.Accor.Infraestrutura.AssemblyInfo.cs
+C:\sistemas\git\hotel\ConstructoIT.Hotel.Accor\ConstructoIT.Hotel.Accor.Infraestrutura\obj\Debug\netcoreapp3.1\ConstructoIT.Hotel.Accor.Infraestrutura.csproj.CopyComplete
+C:\sistemas\git\hotel\ConstructoIT.Hotel.Accor\ConstructoIT.Hotel.Accor.Infraestrutura\obj\Debug\netcoreapp3.1\ConstructoIT.Hotel.Accor.Infraestrutura.dll
+C:\sistemas\git\hotel\ConstructoIT.Hotel.Accor\ConstructoIT.Hotel.Accor.Infraestrutura\obj\Debug\netcoreapp3.1\ConstructoIT.Hotel.Accor.Infraestrutura.pdb
+C:\sistemas\git\hotel\ConstructoIT.Hotel.Accor\ConstructoIT.Hotel.Accor.Infraestrutura\obj\Debug\netcoreapp3.1\ConstructoIT.Hotel.Accor.Infraestrutura.genruntimeconfig.cache

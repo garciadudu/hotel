@@ -1,0 +1,8 @@
+C:\sistemas\git\hotel\ConstructoIT.Hotel.Accor\ConstructoIT.Hotel.Accor.Dominio\bin\Debug\netcoreapp3.1\ConstructoIT.Hotel.Accor.Domain.Entities.deps.json
+C:\sistemas\git\hotel\ConstructoIT.Hotel.Accor\ConstructoIT.Hotel.Accor.Dominio\bin\Debug\netcoreapp3.1\ConstructoIT.Hotel.Accor.Domain.Entities.dll
+C:\sistemas\git\hotel\ConstructoIT.Hotel.Accor\ConstructoIT.Hotel.Accor.Dominio\bin\Debug\netcoreapp3.1\ConstructoIT.Hotel.Accor.Domain.Entities.pdb
+C:\sistemas\git\hotel\ConstructoIT.Hotel.Accor\ConstructoIT.Hotel.Accor.Dominio\obj\Debug\netcoreapp3.1\ConstructoIT.Hotel.Accor.Domain.Entities.csproj.CoreCompileInputs.cache
+C:\sistemas\git\hotel\ConstructoIT.Hotel.Accor\ConstructoIT.Hotel.Accor.Dominio\obj\Debug\netcoreapp3.1\ConstructoIT.Hotel.Accor.Domain.Entities.AssemblyInfoInputs.cache
+C:\sistemas\git\hotel\ConstructoIT.Hotel.Accor\ConstructoIT.Hotel.Accor.Dominio\obj\Debug\netcoreapp3.1\ConstructoIT.Hotel.Accor.Domain.Entities.AssemblyInfo.cs
+C:\sistemas\git\hotel\ConstructoIT.Hotel.Accor\ConstructoIT.Hotel.Accor.Dominio\obj\Debug\netcoreapp3.1\ConstructoIT.Hotel.Accor.Domain.Entities.dll
+C:\sistemas\git\hotel\ConstructoIT.Hotel.Accor\ConstructoIT.Hotel.Accor.Dominio\obj\Debug\netcoreapp3.1\ConstructoIT.Hotel.Accor.Domain.Entities.pdb

@@ -1,0 +1,120 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Condominio</h1>
+
+<button class="btn btn-success" id="botaoCadastrar" name="botaoCadastrar" data-toggle="modal" data-target="#cadastrar">Cadastrar</button>
+
+<table class="tabela">
+    <tr>
+        <td></td>
+    </tr>
+</table>
+
+
+<div class="modal fade" id="cadastrar" tabindex="-1" role="dialog" aria-labelledby="exemploModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exemploModalLabel">Cadastrar</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <form method="post" action="/Cadastrar">
+                    <input type="hidden" id="Id" value="0"/>
+                    <div class="form-group">
+                        <label for="nome" class="col-form-label">Nome</label>
+                        <input type="text" class="form-control cadastrarNome" id="nome">
+                    </div>
+                    <div class="form-group">
+                        <label for="bairro" class="col-form-label">Bairro:</label>
+                        <input type="text" class="form-control cadastrarBairro" id="bairro">
+                    </div>
+                </form>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-primary btn-Cadastrar">Salvar Dados</button>
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div class="modal fade" id="editar" tabindex="-1" role="dialog" aria-labelledby="exemploModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exemploModalLabel">Editar</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <form method="put" action="/Atualizar">
+                    <input type="hidden" id="Id" />
+                    <div class="form-group">
+                        <label for="nome" class="col-form-label">Nome</label>
+                        <input type="text" class="form-control editarNome" id="nome">
+                    </div>
+                    <div class="form-group">
+                        <label for="bairro" class="col-form-label">Bairro:</label>
+                        <input type="text" class="form-control editarBairro" id="bairro">
+                    </div>
+                </form>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-primary btn-Editar">Salvar Dados</button>
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div class="modal fade" id="excluir" tabindex="-1" role="dialog" aria-labelledby="exemploModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exemploModalLabel">Exclusão</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <form method="delete" action="/Remover">
+                    <input type="hidden" id="Id" />
+                    <div class="form-group">
+                        <label for="nome" class="col-form-label">Nome</label>
+                        <input type="text" class="form-control excluirNome" id="nome">
+                    </div>
+                    <div class="form-group">
+                        <label for="bairro" class="col-form-label">Bairro:</label>
+                        <input type="text" class="form-control excluirBairro" id="bairro">
+                    </div>
+                </form>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-primary btn-Excluir">Confirma a exclusão?</button>
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+@section scripts{
+    <script src="~/js/View/Condominio/Condominio.js"></script>
+
+    <script type="text/javascript">
+        $(function () {
+            condominioScript.init();
+        })
+    </script>
+}
+
